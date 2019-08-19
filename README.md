@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+A Body Mass Index Project created with Flutter .
 
 ## Getting Started
 
